@@ -1,0 +1,39 @@
+.img_logo{
+    object-fit: cover;
+    width: 100px;
+}
+video{
+    height: 500px;
+    width: 100%;
+    object-fit: cover;
+}
+.d-block{
+    object-fit: cover;
+    height: 600px;
+}
+footer{
+    background-color: black;
+    color: white;
+  }
+  
+  #claseb{
+      background-color: rgb(33, 183, 224);
+
+
+  }
+  #tituloP{
+      color: white;
+      font-weight: bold;
+       margin-top: 30px;
+       margin-left: -20px;
+
+  }
+  #tituloPB{
+      color: white;
+      font-weight: bold;
+      font-size: 3em;
+  }
+  .card-img-top{
+      height: 200px;
+      object-fit: cover;
+  }
